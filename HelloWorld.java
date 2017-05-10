@@ -3,5 +3,6 @@ public class HelloWorld{
 	
 		System.out.println("hello world");
 		System.out.println("cc first update...");
+		System.out.println("cc second update...");
 	}
 }
